@@ -42,7 +42,7 @@ public class SearchingOnaArray
         return result;
     }
 
-    public int BinarySearch(int key, int first = 0, int last = 8)
+    public int BinarySearch(int key, int first , int last )
     {
         int middle = (first + last) / 2;
 
