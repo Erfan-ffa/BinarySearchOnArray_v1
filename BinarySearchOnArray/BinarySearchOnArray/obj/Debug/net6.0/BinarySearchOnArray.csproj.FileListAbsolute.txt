@@ -1,0 +1,15 @@
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\bin\Debug\net6.0\BinarySearchOnArray.exe
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\bin\Debug\net6.0\BinarySearchOnArray.deps.json
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\bin\Debug\net6.0\BinarySearchOnArray.runtimeconfig.json
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\bin\Debug\net6.0\BinarySearchOnArray.dll
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\bin\Debug\net6.0\BinarySearchOnArray.pdb
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.csproj.AssemblyReference.cache
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.AssemblyInfoInputs.cache
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.AssemblyInfo.cs
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.csproj.CoreCompileInputs.cache
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.dll
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\refint\BinarySearchOnArray.dll
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.pdb
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\BinarySearchOnArray.genruntimeconfig.cache
+C:\Users\Erfan\Desktop\BinarySearchOnArray\BinarySearchOnArray\obj\Debug\net6.0\ref\BinarySearchOnArray.dll
