@@ -4,4 +4,4 @@ using BinarySearch;
 
 SearchingOnaArray x = new SearchingOnaArray();
 Console.WriteLine(x.BinarySearch());
-Console.WriteLine(x.BinarySearch(0,10));
+Console.WriteLine(x.BinarySearch(0,9));
